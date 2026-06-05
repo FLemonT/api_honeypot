@@ -1,0 +1,14 @@
+{
+  "port": 8000,
+  "fake_api_key": "sk-fake-honeypot-key-12345",
+  "openai": {
+    "real_api_url": "https://api.deepseek.com",
+    "real_api_key": "",
+    "target_model": ""
+  },
+  "anthropic": {
+    "real_api_url": "https://api.deepseek.com/anthropic",
+    "real_api_key": "",
+    "target_model": ""
+  }
+}
